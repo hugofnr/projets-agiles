@@ -62,7 +62,7 @@ Description du projet
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/fournieh/ProjetAgile
 
 
 # Équipe 7 : Nom du projet
@@ -120,19 +120,15 @@ Description du projet
 * git :
 
 
-# Équipe 12 : Farmiut
-Jeu permettant de réaliser le travail dans une ferme et la gestion des différents animaux de la ferme.
+# Équipe 12 : Nom du projet
+Description du projet 
 
 ## Équipe
-* Anthony Hanson
-* Quentin Duriez
-* Pierre Delgrange
-* Arthur Verzele
-* Thomas Shipman
+* Prénom Nom
 
 ## Resources
 
-* git : https://git-iut.univ-lille1.fr/hansona/Farmiut.git
+* git :
 
 
 # Équipe 13 : Nom du projet
