@@ -55,14 +55,23 @@ Description du projet
 
 
 # Équipe 6 : Nom du projet
-Description du projet 
+Nom : Lille au Donjon - Sauriez-vous devenir le maître des éléments ?
+
+Création d'un jeu "rogue like" comprenant un donjon avec un système de salles. Chaque salle contient des monstres à battre et les monstres peuvent être de différents éléments : Eau, feu et plante.
+Le joueur possède 3 attaques de chaque type et toi utiliser les bonnes attaques contre les monstres afin de progresser le plus simplement dans le jeu.
+
 
 ## Équipe
 * Prénom Nom
+CONGIN Gabriel
+BADAOUI Nassim
+LECOCQ Valentin
+PEDRO Nicolas
+FOURNIER Hugo
 
 ## Resources
 
-* git :
+* git : 
 
 
 # Équipe 7 : Nom du projet
@@ -73,7 +82,7 @@ Description du projet
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/fournieh/ProjetAgile
 
 
 # Équipe 8 : Nom du projet
